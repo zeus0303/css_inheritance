@@ -22,4 +22,4 @@
 
 #### Pro tip
 - Use a more steep line-height for larger text
-- Ideal line height is between 1.2 - 1.6 for smaller text
+- Ideal line height is between 1.2 - 1.6 for smaller text   
